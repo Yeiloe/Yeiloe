@@ -1,5 +1,12 @@
-<img align="left" height="184" src="https://repository-images.githubusercontent.com/288890123/3747df80-992c-11eb-8e86-c24b227a3501"  />
+<img align="left" height="200" src="https://repository-images.githubusercontent.com/288890123/3747df80-992c-11eb-8e86-c24b227a3501"  />
 
+###
+
+<br clear="both">
+
+<h6 align="left">┌──(Cozay@root)-[~/]<br>└─$ cat Cozyy.py<br><br>class About:<br><br>def init(self):<br>self.name = 'cozy'<br>self.age = 69<br>self.location = 'Tondo Manila'<br>self.BigScarySpookyRedhatHacker = True<br>self.telegram = 't.me/cozypew'<br>self.roblox = 'jamesativo123'<br>self.discord = 'cozyy.py'<br>self.printable = f'Name : {self.name}\nAge : {self.age}\nLocation : {self.location}\n'<br>self.printable += f'Roblox : {self.roblox}\nDiscord : {self.discord}\nSite : {self.site}'<br><br>def repr(self):<br>return self.printable<br><br>┌──(Cozay@root)-[~/]<br>└─$</h6>
+
+###
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/8cosiii) 
