@@ -4,7 +4,21 @@
 
 <br clear="both">
 
-<h6 align="left">┌──(Cozay@root)-[~/]<br>└─$ cat Cozyy.py<br><br>class About:<br><br>def init(self):<br>self.name = 'cozy'<br>self.age = 69<br>self.location = 'Tondo Manila'<br>self.BigScarySpookyRedhatHacker = True<br>self.telegram = 't.me/cozypew'<br>self.roblox = 'jamesativo123'<br>self.discord = 'cozyy.py'<br>self.printable = f'Name : {self.name}\nAge : {self.age}\nLocation : {self.location}\n'<br>self.printable += f'Roblox : {self.roblox}\nDiscord : {self.discord}\nSite : {self.site}'<br><br>def repr(self):<br>return self.printable<br><br>┌──(Cozay@root)-[~/]<br>└─$</h6>
+class About:
+    def __init__(self):
+        self.name = 'cozy'
+        self.age = 69
+        self.location = 'Tondo Manila'
+        self.BigScarySpookyRedhatHacker = True
+        self.telegram = 't.me/cozypew'
+        self.roblox = 'jamesativo123'
+        self.discord = 'cozyy.py'
+        self.printable = f'Name : {self.name}\nAge : {self.age}\nLocation : {self.location}\n'
+        self.printable += f'Roblox : {self.roblox}\nDiscord : {self.discord}\nSite : {self.site}'
+
+    def __repr__(self):
+        return self.printable
+
 
 ###
 
@@ -19,6 +33,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Yeiloe&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<img src="https://raw.githubusercontent.com/Yeiloe/Yeiloe/output/snake.svg" alt="Snake animation" />
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/8cozay) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/8cozay) 
