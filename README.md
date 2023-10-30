@@ -17,7 +17,8 @@
         self.printable += f'Roblox : {self.roblox}\nDiscord : {self.discord}\nSite : {self.site}'
 
     def __repr__(self):
-        return self.printable```
+        return self.printable
+```
 
 
 ###
