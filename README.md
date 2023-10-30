@@ -29,6 +29,12 @@ class About:
 ###
 
 <div align="left">
+  <img src="https://profile-counter.glitch.me/Yeiloe/count.svg?"  />
+</div>
+
+###
+
+<div align="left">
   <a href="https://discord.com/users/1124341186606407882" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
