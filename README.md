@@ -4,7 +4,8 @@
 
 <br clear="both">
 
-```class About:
+```python
+class About:
     def __init__(self):
         self.name = 'cozy'
         self.age = 69
