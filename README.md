@@ -24,14 +24,6 @@ class About:
     def __repr__(self):
         return self.printable
 ```
-
-
-###
-
-<div align="left">
-  <img src="https://profile-counter.glitch.me/Yeiloe/count.svg?"  />
-</div>
-
 ###
 
 <div align="left">
