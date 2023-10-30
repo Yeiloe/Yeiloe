@@ -69,6 +69,11 @@ class About:
 ###
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31jp57muyebtmar53zdjat7sx7lu&unique={true|1|on|yes})
 
+###
+
+<img src="https://raw.githubusercontent.com/Yeiloe/Yeiloe/output/snake.svg" alt="Snake animation" />
+
+###
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/8cozay) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/8cozay) 
