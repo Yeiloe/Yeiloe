@@ -1,5 +1,5 @@
 # 💫 About Me:
-class About:<br><br>  def init(self):<br>    self.name = 'cozy'<br>    self.age = 69<br>    self.location = 'Tondo Manila'<br>    self.BigScarySpookyRedhatHacker = True<br>    self.telegram = 't.me/cozypew'<br>    self.roblox = 'jamesativo123'<br>    self.discord = 'cozyy.py'<br>    self.printable = f'Name : {self.name}\nAge : {self.age}\nLocation : {self.location}\n'<br>    self.printable += f'Roblox : {self.roblox}\nDiscord : {self.discord}\nSite : {self.site}'<br><br>  def repr(self):<br>    return self.printable
+```class About:<br><br>  def init(self):<br>    self.name = 'cozy'<br>    self.age = 69<br>    self.location = 'Tondo Manila'<br>    self.BigScarySpookyRedhatHacker = True<br>    self.telegram = 't.me/cozypew'<br>    self.roblox = 'jamesativo123'<br>    self.discord = 'cozyy.py'<br>    self.printable = f'Name : {self.name}\nAge : {self.age}\nLocation : {self.location}\n'<br>    self.printable += f'Roblox : {self.roblox}\nDiscord : {self.discord}\nSite : {self.site}'<br><br>  def repr(self):<br>    return self.printable```
 
 
 ## 🌐 Socials:
