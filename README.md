@@ -61,12 +61,7 @@ class About:
 <p align="left"></p>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Yeiloe/Yeiloe/output/snake.svg" alt="Snake animation" />
-
-###
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31jp57muyebtmar53zdjat7sx7lu&unique={true|1|on|yes})
 
 
   ## 💰 You can help me by Donating
